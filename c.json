@@ -1,15 +1,5 @@
 [
   {
-    "Name": "Folder Dock",
-    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_Folder.vdf",
-    "Comment": "Folderの色を自由に設定できます。",
-    "Submitter": "straight-tamago",
-    "SubmitDate": "2022.02.20",
-    "Badge": "",
-    "Link": "Link",
-    "ID": "ID"
-  },
-  {
     "Name": "Color Dock",
     "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_Dock.vdf",
     "Comment": "Dockの色を自由に設定できます。",
