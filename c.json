@@ -18,5 +18,15 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID"
+  },
+  {
+    "Name": "Disable Homebar",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Disable_Homebar.vdf",
+    "Comment": "ホームバーを非表示にします。",
+    "Submitter": "straight-tamago",
+    "SubmitDate": "2022.02.20",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID"
   }
 ]
