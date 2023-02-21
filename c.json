@@ -38,5 +38,15 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID"
+  } ,
+  {
+    "Name": "Color ControlCenter Module Fill",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_ControlCenterModuleFill.vdf",
+    "Comment": "コントロールセンターのモジュールの基本色を設定",
+    "Submitter": "roeegh",
+    "SubmitDate": "2022.02.22",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID"
   }
 ]
