@@ -28,5 +28,15 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID"
+  },
+  {
+    "Name": "Color Notification Center Text",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_NotificationCenterText.vdf",
+    "Comment": "通知センターのテキストの色を設定",
+    "Submitter": "roeegh",
+    "SubmitDate": "2022.02.22",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID"
   }
 ]
