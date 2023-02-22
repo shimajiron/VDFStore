@@ -7,7 +7,8 @@
     "SubmitDate": "2022.02.20",
     "Badge": "",
     "Link": "Link",
-    "ID": "ID"
+    "ID": "ID",
+    "minver": "1.0"
   },
   {
     "Name": "Customize Settings App",
@@ -17,7 +18,8 @@
     "SubmitDate": "2022.02.20",
     "Badge": "",
     "Link": "Link",
-    "ID": "ID"
+    "ID": "ID",
+    "minver": "1.0"
   },
   {
     "Name": "Disable Homebar",
@@ -27,7 +29,8 @@
     "SubmitDate": "2022.02.20",
     "Badge": "",
     "Link": "Link",
-    "ID": "ID"
+    "ID": "ID",
+    "minver": "1.0"
   },
   {
     "Name": "Color Notification Center Text",
