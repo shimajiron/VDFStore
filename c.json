@@ -37,7 +37,8 @@
     "SubmitDate": "2022.02.22",
     "Badge": "",
     "Link": "Link",
-    "ID": "ID"
+    "ID": "ID",
+    "minver": "1.2"
   } ,
   {
     "Name": "Color ControlCenter Module Fill",
@@ -47,6 +48,7 @@
     "SubmitDate": "2022.02.22",
     "Badge": "",
     "Link": "Link",
-    "ID": "ID"
+    "ID": "ID",
+    "minver": "1.2"
   }
 ]
