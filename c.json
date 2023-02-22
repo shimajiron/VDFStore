@@ -75,11 +75,22 @@
     "Link": "Link",
     "ID": "ID",
     "minver": "1.2"
-  } ,
+  },
   {
     "Name": "Color ControlCenter Background",
     "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_ControlCenterBackground.vdf",
     "Comment": "コントロールセンターの背景色を設定",
+    "Submitter": "straight-tamago",
+    "SubmitDate": "2022.02.22",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID",
+    "minver": "1.2"
+  } ,
+  {
+    "Name": "Color ControlCenter Icon&Text",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_ControlCenterIcon&Text.vdf",
+    "Comment": "コントロールセンターのアイコンやテキストの色を設定",
     "Submitter": "straight-tamago",
     "SubmitDate": "2022.02.22",
     "Badge": "",
