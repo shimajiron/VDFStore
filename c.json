@@ -1,5 +1,16 @@
 [
   {
+    "Name": "DialSound Piano",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/DialSound_Piano.vdf",
+    "Comment": "ダイアル音をピアノにするよ",
+    "Submitter": "Coolwcat",
+    "SubmitDate": "2022.02.22",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID",
+    "minver": "1.0"
+  },
+  {
     "Name": "Color Dock",
     "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_Dock.vdf",
     "Comment": "Dockの色を自由に設定できます。",
