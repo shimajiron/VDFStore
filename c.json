@@ -86,12 +86,23 @@
     "Link": "Link",
     "ID": "ID",
     "minver": "1.2"
-  } ,
+  },
   {
     "Name": "Color ControlCenter Icon&Text",
     "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Color_ControlCenterIcon&Text.vdf",
     "Comment": "コントロールセンターのアイコンやテキストの色を設定",
     "Submitter": "straight-tamago",
+    "SubmitDate": "2022.02.22",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID",
+    "minver": "1.2"
+  } ,
+  {
+    "Name": "Enable Internal",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/Enable_Internal.vdf",
+    "Comment": "システムをInternalモードに設定",
+    "Submitter": "yyyywaiwai",
     "SubmitDate": "2022.02.22",
     "Badge": "",
     "Link": "Link",
