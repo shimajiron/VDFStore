@@ -130,5 +130,16 @@
     "Link": "Link",
     "ID": "ID",
     "minver": "1.4"
+  } ,
+  {
+    "Name": "RespringCC Shortcut",
+    "URL": "https://github.com/straight-tamago-sub/vdfStore/raw/main/RespringCC_Shortcut.vdf",
+    "Comment": "別途、RespringCCをインストールしておく必要あり",
+    "Submitter": "straight-tamago",
+    "SubmitDate": "2022.02.24",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID",
+    "minver": "1.4"
   }
 ]
