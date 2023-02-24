@@ -141,5 +141,16 @@
     "Link": "Link",
     "ID": "ID",
     "minver": "1.4"
+  } ,
+  {
+    "Name": "ControlCenter Module Size",
+    "URL": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
+    "Comment": "コントロールセンターのモジュールの大きさを変更",
+    "Submitter": "straight-tamago",
+    "SubmitDate": "2022.02.25",
+    "Badge": "",
+    "Link": "Link",
+    "ID": "ID",
+    "minver": "1.8"
   }
 ]
