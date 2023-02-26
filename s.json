@@ -8,8 +8,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color Dock",
@@ -20,8 +20,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Customize Settings App",
@@ -32,8 +32,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Disable Homebar",
@@ -44,8 +44,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color Notification Center Text",
@@ -56,8 +56,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color ControlCenter Module Fill",
@@ -68,8 +68,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color ControlCenter Module",
@@ -80,8 +80,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color ControlCenter Background",
@@ -92,8 +92,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   },
   {
     "Name": "Color ControlCenter Icon&Text",
@@ -104,8 +104,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   } ,
   {
     "Name": "Color ControlCenter",
@@ -116,8 +116,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   } ,
   {
     "Name": "Enable Internal",
@@ -128,8 +128,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   } ,
   {
     "Name": "Wallpaper ControlCenter",
@@ -140,8 +140,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   } ,
   {
     "Name": "RespringCC Shortcut",
@@ -152,8 +152,8 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   } ,
   {
     "Name": "ControlCenter Module Size",
@@ -164,7 +164,7 @@
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
-    "PackageVer": "1.0",
-    "AppVer": "2.1"
+    "PackageVer": 1.0,
+    "AppVer": 1.0
   }
 ]
