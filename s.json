@@ -5,7 +5,7 @@
     "ID": "ID",
     "Child": [
       {
-        "Name": "Color Control Center",
+        "Name": "Control Center",
         "Comment": "",
         "ID": "ID",
         "Child": [
@@ -63,6 +63,18 @@
             "Comment": "コントロールセンターのモジュールの大きさを変更",
             "Submitter": "straight-tamago",
             "SubmitDate": "2022.02.25",
+            "Badge": "",
+            "Link": "Link",
+            "ID": "ID",
+            "PackageVer": 1.0,
+            "AppVer": 1.0
+          },
+          {
+            "Name": "Wallpaper ControlCenter",
+            "URL": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
+            "Comment": "コントロールセンターに壁紙を設定",
+            "Submitter": "straight-tamago",
+            "SubmitDate": "2022.02.24",
             "Badge": "",
             "Link": "Link",
             "ID": "ID",
@@ -153,18 +165,6 @@
     "Comment": "システムをInternalモードに設定",
     "Submitter": "yyyywaiwai",
     "SubmitDate": "2022.02.23",
-    "Badge": "",
-    "Link": "Link",
-    "ID": "ID",
-    "PackageVer": 1.0,
-    "AppVer": 1.0
-  },
-  {
-    "Name": "Wallpaper ControlCenter",
-    "URL": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
-    "Comment": "コントロールセンターに壁紙を設定",
-    "Submitter": "straight-tamago",
-    "SubmitDate": "2022.02.24",
     "Badge": "",
     "Link": "Link",
     "ID": "ID",
