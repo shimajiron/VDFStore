@@ -6,7 +6,7 @@
     "Child": [
       {
         "Name": "Control Center",
-        "Comment": "",
+        "Comment": "コントロールセンターをカスタマイズ",
         "ID": "ID",
         "Child": [
           {
@@ -85,7 +85,7 @@
       },
       {
         "Name": "Notification Center",
-        "Comment": "",
+        "Comment": "通知センターをカスタマイズ",
         "ID": "ID",
         "Child": [
           {
@@ -104,7 +104,7 @@
       },
       {
         "Name": "Other",
-        "Comment": "",
+        "Comment": "その他",
         "ID": "ID",
         "Child": [
           {
