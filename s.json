@@ -23,7 +23,7 @@
   },
   {
     "Name": "Customize Settings App",
-    "URL": "https://github.com/shimajiron/VDFStore/raw/main/ettings.plist.vdf",
+    "URL": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
     "Comment": "設定画面をカスタマイズします。",
     "Submitter": "straight-tamago",
     "SubmitDate": "2022.02.20",
