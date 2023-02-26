@@ -1,5 +1,36 @@
 [
   {
+    "Name": "SpringBoard",
+    "Comment": "SpringBoardをカスタマイズするやつ",
+    "Child": [
+        {
+          "Name": "Color Dock",
+          "URL": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
+          "Comment": "Dockの色を自由に設定できます。",
+          "Submitter": "straight-tamago",
+          "SubmitDate": "2022.02.20",
+          "Badge": "",
+          "Link": "Link",
+          "ID": "ID",
+          "PackageVer": 1.0,
+          "AppVer": 1.0
+        },
+        {
+          "Name": "Disable Homebar",
+          "URL": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
+          "Comment": "ホームバーを非表示にします。",
+          "Submitter": "straight-tamago",
+          "SubmitDate": "2022.02.20",
+          "Badge": "",
+          "Link": "Link",
+          "ID": "ID",
+          "PackageVer": 1.0,
+          "AppVer": 1.0
+        },
+    ],
+    "ID": "ID",
+  },
+  {
     "Name": "DialSound Piano",
     "URL": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
     "Comment": "ダイアル音をピアノにするよ",
@@ -12,33 +43,9 @@
     "AppVer": 1.0
   },
   {
-    "Name": "Color Dock",
-    "URL": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
-    "Comment": "Dockの色を自由に設定できます。",
-    "Submitter": "straight-tamago",
-    "SubmitDate": "2022.02.20",
-    "Badge": "",
-    "Link": "Link",
-    "ID": "ID",
-    "PackageVer": 1.0,
-    "AppVer": 1.0
-  },
-  {
     "Name": "Customize Settings App",
     "URL": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
     "Comment": "設定画面をカスタマイズします。",
-    "Submitter": "straight-tamago",
-    "SubmitDate": "2022.02.20",
-    "Badge": "",
-    "Link": "Link",
-    "ID": "ID",
-    "PackageVer": 1.0,
-    "AppVer": 1.0
-  },
-  {
-    "Name": "Disable Homebar",
-    "URL": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
-    "Comment": "ホームバーを非表示にします。",
     "Submitter": "straight-tamago",
     "SubmitDate": "2022.02.20",
     "Badge": "",
