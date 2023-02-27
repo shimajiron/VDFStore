@@ -1,11 +1,11 @@
   {
-    "RepoName": "しまじろん",
-    "Comment": "うーん",
+    "RepositoryName": "しまじろん",
+    "RepositoryDescription": "うーん",
+    "RepositoryAuthor": "straight-tamago",
     "Contents": [
       {
         "Name": "SpringBoard",
-        "Comment": "SpringBoardをカスタマイズするやつ",
-        "ID": "ID",
+        "Description": "SpringBoardをカスタマイズするやつ",
         "Child": [
           {
             "Name": "Control Center",
