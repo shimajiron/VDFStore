@@ -9,6 +9,8 @@
         "Description": "コントロールセンターのモジュールの色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -16,6 +18,8 @@
         "Description": "コントロールセンターのモジュールの基本色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
         "Author": "roeegh",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -23,6 +27,8 @@
         "Description": "コントロールセンターの背景色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -30,6 +36,8 @@
         "Description": "コントロールセンターのアイコンやテキストの色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon&Text.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -37,6 +45,8 @@
         "Description": "コントロールセンターのモジュールの大きさを変更",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -44,6 +54,8 @@
         "Description": "コントロールセンターに壁紙を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -51,6 +63,8 @@
         "Description": "通知センターのテキストの色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
         "Author": "roeegh",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -58,6 +72,8 @@
         "Description": "Dockの色を自由に設定できます。",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -65,6 +81,8 @@
         "Description": "ホームバーを非表示にします。",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -72,6 +90,8 @@
         "Description": "ダイアル音をピアノにするよ",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
         "Author": "Coolwcat",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -79,6 +99,8 @@
         "Description": "設定画面をカスタマイズします。",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -86,6 +108,8 @@
         "Description": "システムをInternalモードに設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
         "Author": "yyyywaiwai",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       },
       {
@@ -93,6 +117,8 @@
         "Description": "別途RespringCCをインストールしておく必要あり",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
         "Author": "straight-tamago",
+        "Icon": "",
+        "Category": "",
         "Version": 1.0
       }
     ]
