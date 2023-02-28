@@ -10,7 +10,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": None,
         "Version": "1.0"
       },
       {
