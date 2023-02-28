@@ -19,7 +19,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
         "Author": "roeegh",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -28,7 +28,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -37,7 +37,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon&Text.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -46,7 +46,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -55,7 +55,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -64,7 +64,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
         "Author": "roeegh",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -73,7 +73,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -82,7 +82,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -91,7 +91,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
         "Author": "Coolwcat",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -100,7 +100,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -109,7 +109,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
         "Author": "yyyywaiwai",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       },
       {
@@ -118,7 +118,7 @@
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
         "Author": "straight-tamago",
         "Icon": "",
-        "Category": "",
+        "Category": null,
         "Version": "1.0"
       }
     ]
