@@ -9,7 +9,7 @@
         "Description": "コントロールセンターのモジュールの色を設定",
         "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
         "Author": "straight-tamago",
-        "Icon": "",
+        "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1080122006495825962/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
         "Category": null,
         "Version": "1.0"
       },
