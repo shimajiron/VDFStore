@@ -19,7 +19,8 @@
           "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png",
           "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png"
         ],
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago.Color_ControlCenterModule"
       },
       {
         "Name": "Color ControlCenter Module Fill",
@@ -31,7 +32,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Color ControlCenter Background",
@@ -43,7 +45,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Color ControlCenter Icon&Text",
@@ -55,7 +58,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "ControlCenter Module Size",
@@ -67,7 +71,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Wallpaper ControlCenter",
@@ -79,7 +84,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Color Notification Center Text",
@@ -91,7 +97,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Color Dock",
@@ -103,7 +110,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Disable Homebar",
@@ -115,7 +123,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "DialSound Piano",
@@ -127,7 +136,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Customize Settings App",
@@ -139,7 +149,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "Enable Internal",
@@ -151,7 +162,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       },
       {
         "Name": "RespringCC Shortcut",
@@ -163,7 +175,8 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0"
+        "Version": "1.0",
+        "PackageID": "com.straight-tamago."
       }
     ]
   }
