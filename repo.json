@@ -33,7 +33,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Color_ControlCenterModuleFill"
       },
       {
         "Name": "Color ControlCenter Background",
@@ -46,7 +46,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Color_ControlCenterBackground"
       },
       {
         "Name": "Color ControlCenter Icon&Text",
@@ -59,7 +59,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Color_ControlCenterIcon&Text"
       },
       {
         "Name": "ControlCenter Module Size",
@@ -72,7 +72,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.ControlCenter_Module_Size"
       },
       {
         "Name": "Wallpaper ControlCenter",
@@ -85,7 +85,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Wallpaper_ControlCenter"
       },
       {
         "Name": "Color Notification Center Text",
@@ -98,7 +98,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Color_NotificationCenterText"
       },
       {
         "Name": "Color Dock",
@@ -111,7 +111,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Color_Dock"
       },
       {
         "Name": "Disable Homebar",
@@ -124,7 +124,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Disable_Homebar"
       },
       {
         "Name": "DialSound Piano",
@@ -137,7 +137,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.DialSound_Piano"
       },
       {
         "Name": "Customize Settings App",
@@ -150,7 +150,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Settings.plist"
       },
       {
         "Name": "Enable Internal",
@@ -163,7 +163,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.Enable_Internal"
       },
       {
         "Name": "RespringCC Shortcut",
@@ -176,7 +176,7 @@
         "Caption": null,
         "Screenshot": null,
         "Version": "1.0",
-        "PackageID": "com.straight-tamago."
+        "PackageID": "com.straight-tamago.RespringCC_Shortcut"
       }
     ]
   }
