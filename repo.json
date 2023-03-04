@@ -22,12 +22,12 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
-            "Description": ""
+            "Description": "更新内容"
           },
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
-            "Description": ""
+            "Description": "更新内容"
           }
         ],
         "PackageID": "com.straight-tamago.Color_ControlCenterModule"
