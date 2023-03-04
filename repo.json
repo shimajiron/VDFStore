@@ -22,12 +22,12 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
-            "Description": "更新内容"
+            "Description": null
           },
           {
             "Version": "1.1", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
-            "Description": "更新内容"
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_ControlCenterModule"
@@ -45,7 +45,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_ControlCenterModuleFill"
@@ -63,7 +63,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_ControlCenterBackground"
@@ -82,7 +82,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon&Text.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_ControlCenterIcon&Text"
@@ -100,7 +100,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.ControlCenter_Module_Size"
@@ -118,7 +118,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Wallpaper_ControlCenter"
@@ -137,7 +137,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_NotificationCenterText"
@@ -155,7 +155,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Color_Dock"
@@ -173,7 +173,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Disable_Homebar"
@@ -191,7 +191,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.DialSound_Piano"
@@ -209,7 +209,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Settings.plist"
@@ -227,7 +227,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.Enable_Internal"
@@ -245,7 +245,7 @@
           {
             "Version": "1.0", 
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
-            "Description": ""
+            "Description": null
           }
         ],
         "PackageID": "com.straight-tamago.RespringCC_Shortcut"
