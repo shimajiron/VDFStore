@@ -8,7 +8,6 @@
       {
         "Name": "Color ControlCenter Module",
         "Description": "コントロールセンターのモジュールの色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ",
         "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1080122006495825962/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
@@ -19,33 +18,54 @@
           "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png",
           "https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2022/12/swiftui-boundingbox-1.png"
         ],
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
+            "Description": ""
+          },
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModule.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_ControlCenterModule"
       },
       {
         "Name": "Color ControlCenter Module Fill",
         "Description": "コントロールセンターのモジュールの基本色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
         "Author": "roeegh",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterModuleFill.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_ControlCenterModuleFill"
       },
       {
         "Name": "Color ControlCenter Background",
         "Description": "コントロールセンターの背景色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterBackground.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_ControlCenterBackground"
       },
       {
@@ -58,33 +78,49 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_ControlCenterIcon&Text"
       },
       {
         "Name": "ControlCenter Module Size",
         "Description": "コントロールセンターのモジュールの大きさを変更",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/ControlCenter_Module_Size.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.ControlCenter_Module_Size"
       },
       {
         "Name": "Wallpaper ControlCenter",
         "Description": "コントロールセンターに壁紙を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Wallpaper_ControlCenter.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Wallpaper_ControlCenter"
       },
       {
@@ -97,85 +133,121 @@
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_NotificationCenterText"
       },
       {
         "Name": "Color Dock",
         "Description": "Dockの色を自由に設定できます。",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_Dock.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Color_Dock"
       },
       {
         "Name": "Disable Homebar",
         "Description": "ホームバーを非表示にします。",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Disable_Homebar.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Disable_Homebar"
       },
       {
         "Name": "DialSound Piano",
         "Description": "ダイアル音をピアノにするよ",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
         "Author": "Coolwcat",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/DialSound_Piano.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.DialSound_Piano"
       },
       {
         "Name": "Customize Settings App",
         "Description": "設定画面をカスタマイズします。",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Settings.plist.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Settings.plist"
       },
       {
         "Name": "Enable Internal",
         "Description": "システムをInternalモードに設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
         "Author": "yyyywaiwai",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/Enable_Internal.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.Enable_Internal"
       },
       {
         "Name": "RespringCC Shortcut",
         "Description": "別途RespringCCをインストールしておく必要あり",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
         "Author": "straight-tamago",
         "AuthorWebsite": null,
         "Icon": null,
         "Category": null,
         "Caption": null,
         "Screenshot": null,
-        "Version": "1.0",
+        "Releases": [
+          {
+            "Version": "1.0", 
+            "Package": "https://github.com/shimajiron/VDFStore/raw/main/RespringCC_Shortcut.vdf",
+            "Description": ""
+          }
+        ],
         "PackageID": "com.straight-tamago.RespringCC_Shortcut"
       }
     ]
