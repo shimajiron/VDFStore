@@ -1,0 +1,107 @@
+ {
+    "RepositoryName": "皆行斎'sRepo",
+    "RepositoryDescription": "くろみうむ飴のレポジトリだよ",
+    "RepositoryAuthor": "ChromiumCandy",
+    "RepositoryIcon": "https://pbs.twimg.com/media/FqBawI1akAAUD_g?format=jpg&name=small",
+    "RepositoryWebsite": "https://github.com/hanabiADHD/hanabiRepo",
+    "RepositoryContents": [
+      {
+        "Name": "TrollBalloon",
+        "Description": "Change iMessage Balloon effects into TrollFace",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Icon": null,
+        "Category": null,
+        "Caption": "Troll your iMesssage effects!",
+        "Screenshot": [
+          "https://pbs.twimg.com/media/FqA7todaEAEo_5K?format=jpg&name=large"
+        ],
+        "Releases": [
+          {
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491485751746610/CKHappyBirthdayEffect.bundle.vdf",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.TrollBalloon"
+      },
+      {
+        "Name": "TrollLazer",
+        "Description": "Troll your iMessage effects!",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Icon": null,
+        "Category": null,
+        "Caption": "Change iMessage Lazer effect into TrollFace",
+        "Screenshot": "https://pbs.twimg.com/media/FqA7toeaAAE0GX_?format=jpg&name=large",
+        "Releases": [
+          {
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1078491531947823205/strobe.tif.vdf",
+            "Description": ""
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.TrollLazer"
+      },
+      {
+        "Name": "GonnaKillYaScreenTime(0.6Series)",
+        "Description": "Kill ScreenTime",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": "https://twitter.com/ChromiumCandy",
+        "Icon": null,
+        "Category": null,
+        "Caption": "Destroy ScreenTimeAgent Prefs",
+        "Screenshot": null,
+        "Releases": [
+          {
+            "Version": "0.6.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079447779618869430/GonnaKillYaScreenTimeV0.6.2.vdf",
+            "Description": "設定を破壊するのに重点を置いたシリーズ"
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.GKYST6series"
+      },
+      {
+        "Name": "GonnaKillYaScreenTime(0.5.2Series)",
+        "Description": "Kill ScreenTime",
+        "Author": "straight-tamago",
+        "AuthorWebsite": null,
+        "Icon": null,
+        "Category": null,
+        "Caption": "Destroy ScreenTimeAgent daemon",
+        "Screenshot": null,
+        "Releases": [
+          {
+            "Version": "0.5.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1075421920322932848/1079389913541247026/GonnaKillYaScreenTimeV0.5.2.vdf",
+            "Description": "Daemonのキルに特化したほう"
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.GKYST52series"
+      },
+      {
+        "Name": "TrollSpotlight",
+        "Description": "Trolly Trolly Trolly ya dude",
+        "Author": "ChromiumCandy",
+        "AuthorWebsite": null,
+        "Icon": null,
+        "Category": null,
+        "Caption": "Change iMessage Spotlight effect into TrollFace",
+        "Screenshot": "https://pbs.twimg.com/media/FqA7toVaMAAXPwc?format=jpg&name=large",
+        "Releases": [
+          {
+            "Version": "0.2", 
+            "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079492295205847093/TrollSpotlight_v0.2.vdf",
+            "Description": "画像の歪み修正"
+          },
+          {
+            "Version": "0.1", 
+            "Package": "https://cdn.discordapp.com/attachments/1079074514257838130/1079429515098476605/TrollSpotlight.vdf",
+            "Description": "1st release"
+          }
+        ],
+        "PackageID": "com.ChromiumCandy.TrollSpotlight"
+      }
+      
+    ]
+  }
