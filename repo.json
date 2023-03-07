@@ -105,7 +105,7 @@
       {
         "Name": "Color ControlCenter Icon&Text",
         "Description": "コントロールセンターのアイコンやテキストの色を設定",
-        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenter_Icon&Text.vdf",
+        "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_ControlCenterIcon&Text.vdf",
         "Author": {
           "Label": "しまじろん",
           "Links": [
