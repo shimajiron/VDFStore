@@ -8,8 +8,19 @@
       {
         "Name": "Color ControlCenter Module",
         "Description": "コントロールセンターのモジュールの色を設定",
-        "Author": "straight-tamago",
-        "AuthorWebsite": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ",
+        "Author": {
+          "Label": "straight-tamago",
+          "Links": [
+            {
+              "Label": "straight-tamago",
+              "Website": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+            },
+            {
+              "Label": "12",
+              "Website": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+            }
+          ]
+        },
         "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1080122006495825962/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
         "HeaderImage": "http://cdn-ak.f.st-hatena.com/images/fotolife/k/kanamemagika/20140128/20140128110249.gif",
         "Category": null,
