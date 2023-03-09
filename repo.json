@@ -198,7 +198,10 @@
             "Package": "https://github.com/shimajiron/VDFStore/raw/main/Color_NotificationCenterText.vdf",
             "Author": {
                 "Label": "roeegh",
-                "Link": "https://twitter.com/roeegh"
+                "Links":  {
+                        "Label": "roeegh",
+                        "Link": "https://twitter.com/roeegh"
+                    }
             },
             "Icon": null,
             "Category": null,
@@ -325,7 +328,12 @@
             "Description": "システムをInternalモードに設定",
             "Author": {
                 "Label": "yyyywaiwai",
-                "Links": []
+                "Links": [
+                    {
+                        "Label": "yyyywaiwai",
+                        "Link": "https://twitter.com/yyyyyy_public"
+                    }
+                ]
             },
             "Icon": null,
             "Category": null,
