@@ -26,7 +26,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Disable_Homebar.misaka",
-                    "Description": null
+                    "Description": "misaka形式に"
                 }
             ],
             "PackageID": "com.straight-tamago.Disable_Homebar"
@@ -46,7 +46,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.DialSound_Piano.misaka",
-                    "Description": null
+                    "Description": "misaka形式に"
                 }
             ],
             "PackageID": "com.straight-tamago.DialSound_Piano"
@@ -66,7 +66,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Enable_Internal.misaka",
-                    "Description": null
+                    "Description": "misaka形式に"
                 }
             ],
             "PackageID": "com.straight-tamago.Enable_Internal"
@@ -91,7 +91,7 @@
                 {
                     "Version": "1.0",
                     "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.RespringCC_Shortcut.misaka",
-                    "Description": null
+                    "Description": "misaka形式に"
                 }
             ],
             "PackageID": "com.straight-tamago.RespringCC_Shortcut"
