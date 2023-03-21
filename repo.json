@@ -32,6 +32,36 @@
             "PackageID": "com.straight-tamago.Disable_Homebar"
         },
         {
+            "Name": "Disable Homebar",
+            "Description": "ホームバーを非表示にします。",
+            "Author": {
+                "Label": "Coolwcat & しまじろん",
+                "Links": [
+                    {
+                        "Label": "しまじろん",
+                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+                    },
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat?s=21&t=DmwCmmRZlpmNttIj0m4FhA"
+                    }
+
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.LockScreenIcons.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.LockScreen_Icons.misaka"
+        },
+        {
             "Name": "DialSound Piano",
             "Description": "ダイアル音をピアノにするよ",
             "Author": {
