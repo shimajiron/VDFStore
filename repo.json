@@ -32,8 +32,8 @@
             "PackageID": "com.straight-tamago.Disable_Homebar"
         },
         {
-            "Name": "Disable Homebar",
-            "Description": "ホームバーを非表示にします。",
+            "Name": "LockScreen Icons",
+            "Description": "ロックスクリーンの下にあるボタンのデザイン",
             "Author": {
                 "Label": "Coolwcat & しまじろん",
                 "Links": [
