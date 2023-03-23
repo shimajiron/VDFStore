@@ -52,6 +52,8 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
+            "MinIOSVersion": 14,
+            "MaxIOSVersion": 15.6,
             "Releases": [
                 {
                     "Version": "1.0",
