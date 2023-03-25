@@ -22,9 +22,8 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
-            "NotSupportedIOSVersion": [
-                15
-            ],
+            "MinIOSVersion": 15.5,
+            "MaxIOSVersion": 16.1.2,
             "Releases": [
                 {
                     "Version": "1.0",
