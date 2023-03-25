@@ -22,8 +22,8 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
-            "MinIOSVersion": 15.5,
-            "MaxIOSVersion": 16.1.2,
+            "MinIOSVersion": "15.5",
+            "MaxIOSVersion": "16.1.2",
             "Releases": [
                 {
                     "Version": "1.0",
