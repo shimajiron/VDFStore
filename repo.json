@@ -22,7 +22,7 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
-            "MinIOSVersion": "15.5",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Releases": [
                 {
