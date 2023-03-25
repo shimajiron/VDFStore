@@ -22,6 +22,9 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
+            "NotSupportedIOSVersion": [
+                15
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
