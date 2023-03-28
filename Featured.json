@@ -15,6 +15,10 @@
       {
         "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
         "PackageID": "com.leemin.samsungdiscordping"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/VDFStore/main/repo.json",
+        "PackageID": "com.straight-tamago.Disable_Homebar"
       }
     ],
     "TopTweaks": [
