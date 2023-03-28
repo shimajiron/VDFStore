@@ -18,9 +18,21 @@
       }
     ],
     "TopTweaks": [
+        {
+            "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+            "PackageID": "com.sugiuta.hidepasscodeblur"
+          },
+          {
+            "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/hanabiRepo/main/repo.json",
+            "PackageID": "com.ChromiumCandy.Clearity"
+          },
       {
         "RepositoryURL": "https://haxi0sm.tk/misaka.json",
         "PackageID": "org.haxi0.NoNameBatteryWidget"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+        "PackageID": "com.yangjiii.yangjiuils"
       },
       {
         "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
@@ -29,14 +41,6 @@
       {
         "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
         "PackageID": "com.Kumiki.ClockOnimai"
-      },
-      {
-        "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
-        "PackageID": "com.sugiuta.hidepasscodeblur"
-      },
-      {
-        "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/hanabiRepo/blob/main/repo.json",
-        "PackageID": "com.ChromiumCandy.Clearity"
       }
       
     ]
