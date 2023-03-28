@@ -41,6 +41,11 @@
       {
         "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
         "PackageID": "com.Kumiki.ClockOnimai"
+      
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+        "PackageID": "com.coolwcat.appleroundfont"
       }
       
     ]
