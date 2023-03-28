@@ -1,30 +1,34 @@
 {
   "HeaderTweaks": [
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+      "PackageID": "com.34306.gsclock"
     },
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
+      "PackageID": "com.ichitaso.iphonex-respring"
     },
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+      "PackageID": "com.leemin.samsungdiscordping"
     }
   ],
   "TopTweaks": [
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://haxi0sm.tk/misaka.json",
+      "PackageID": "org.haxi0.DisableLock"
     },
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+      "PackageID": "com.coolwcat.lsui15"
     },
     {
-      "RepositoryURL": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+      "PackageID": "com.Kumiki.ClockOnimai"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+      "PackageID": "com.sugiuta.hidepasscodeblur"
     }
   ]
 }
