@@ -71,7 +71,13 @@
             "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
             "Author": {
                 "Label": "Coolwcat",
-                "Links": "https://twitter.com/coolwcat"
+                "Links": [
+                    
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
             },
             "Icon": null,
             "Category": null,
@@ -91,7 +97,13 @@
             "Description": "システムをInternalモードに設定",
             "Author": {
                 "Label": "yyyywaiwai",
-                "Links": "https://twitter.com/yyyyyy_public"
+                "Links": [
+                    
+                    {
+                        "Label": "yyyywaiwai",
+                        "Link": "https://twitter.com/yyyyyy_public"
+                    }
+                ]
             },
             "Icon": null,
             "Category": null,
