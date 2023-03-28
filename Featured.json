@@ -1,0 +1,30 @@
+{
+  "HeaderTweaks": [
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    },
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    },
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    }
+  ],
+  "TopTweaks": [
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    },
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    },
+    {
+      "RepositoryUrl": "https://github.com/shimajiron/VDFStore/raw/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    }
+  ]
+}
