@@ -1,5 +1,5 @@
 {
-    "RepositoryName": "しまじろん",
+    "RepositoryName": "straight-tamago (しまじろん)",
     "RepositoryDescription": "うーん",
     "RepositoryAuthor": "straight-tamago",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/963821657703718964/1079019359059591328/IMG_2308.gif",
@@ -8,13 +8,17 @@
     "RepositoryContents": [
         {
             "Name": "Disable Homebar",
-            "Description": "ホームバーを非表示にします。",
+            "Description": "Hide Homebar (ホームバーを非表示にします。)",
             "Author": {
-                "Label": "しまじろん",
+                "Label": "straight-tamago",
                 "Links": [
                     {
-                        "Label": "しまじろん",
-                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight-tamago"
+                    },
+                    {
+                        "Label": "nbxy (Icon & Header)",
+                        "Link": "https://twitter.com/ChromiumCandy"
                     }
                 ]
             },
@@ -23,8 +27,6 @@
             "Category": null,
             "Caption": null,
             "Screenshot": null,
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.1.2",
             "Releases": [
                 {
                     "Version": "1.0",
@@ -36,17 +38,17 @@
         },
         {
             "Name": "LockScreen Icons",
-            "Description": "ロックスクリーンの下にあるボタンのデザイン",
+            "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
             "Author": {
                 "Label": "Coolwcat & しまじろん",
                 "Links": [
                     {
                         "Label": "しまじろん",
-                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+                        "Link": "https://twitter.com/straight-tamago"
                     },
                     {
                         "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat?s=21&t=DmwCmmRZlpmNttIj0m4FhA"
+                        "Link": "https://twitter.com/coolwcat"
                     }
 
                 ]
@@ -66,10 +68,10 @@
         },
         {
             "Name": "DialSound Piano",
-            "Description": "ダイアル音をピアノにするよ",
+            "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
             "Author": {
                 "Label": "Coolwcat",
-                "Links": []
+                "Links": "https://twitter.com/coolwcat"
             },
             "Icon": null,
             "Category": null,
@@ -89,7 +91,7 @@
             "Description": "システムをInternalモードに設定",
             "Author": {
                 "Label": "yyyywaiwai",
-                "Links": []
+                "Links": "https://twitter.com/yyyyyy_public"
             },
             "Icon": null,
             "Category": null,
@@ -106,19 +108,19 @@
         },
         {
             "Name": "RespringCC Shortcut",
-            "Description": "別途RespringCCをインストールしておく必要あり",
+            "Description": "Install RespringCC before using",
             "Author": {
                 "Label": "しまじろん",
                 "Links": [
                     {
                         "Label": "しまじろん",
-                        "Link": "https://twitter.com/9rv0ifi2qk8wx9r/status/1628317914263859202?s=46&t=x7qR0YjDQ5I_EkRaZojZpQ"
+                        "Link": "https://twitter.com/straight-tamago"
                     }
                 ]
             },
             "Icon": null,
             "Category": null,
-            "Caption": null,
+            "Caption": "別途RespringCCをインストールしておく必要あり",
             "Screenshot": null,
             "Releases": [
                 {
