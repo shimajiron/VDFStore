@@ -1,34 +1,43 @@
 {
-  "HeaderTweaks": [
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
-      "PackageID": "com.34306.gspc"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
-      "PackageID": "com.ichitaso.iphonex-respring"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
-      "PackageID": "com.leemin.samsungdiscordping"
-    }
-  ],
-  "TopTweaks": [
-    {
-      "RepositoryURL": "https://haxi0sm.tk/misaka.json",
-      "PackageID": "org.haxi0.DisableLock"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.lsui15"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.ClockOnimai"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
-      "PackageID": "com.sugiuta.hidepasscodeblur"
-    }
-  ]
-}
+    "HeaderTweaks": [
+        {
+            "RepositoryURL": "https://haxi0sm.tk/misaka.json",
+            "PackageID": "org.haxi0.ByeByeDock"
+          },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+        "PackageID": "com.34306.gspc"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
+        "PackageID": "com.ichitaso.iphonex-respring"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+        "PackageID": "com.leemin.samsungdiscordping"
+      }
+    ],
+    "TopTweaks": [
+      {
+        "RepositoryURL": "https://haxi0sm.tk/misaka.json",
+        "PackageID": "org.haxi0.NoNameBatteryWidget"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+        "PackageID": "com.coolwcat.lsui15"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+        "PackageID": "com.Kumiki.ClockOnimai"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+        "PackageID": "com.sugiuta.hidepasscodeblur"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/hanabiRepo/blob/main/repo.json",
+        "PackageID": "com.ChromiumCandy.Clearity"
+      }
+      
+    ]
+  }
