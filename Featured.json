@@ -1,9 +1,15 @@
 {
+    "Tweak01": [
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+        "PackageID": "com.34306.gspc"
+      }
+    ],
     "HeaderTweaks": [
-        {
-            "RepositoryURL": "https://haxi0sm.tk/misaka.json",
-            "PackageID": "org.haxi0.ByeByeDock"
-          },
+      {
+        "RepositoryURL": "https://haxi0sm.tk/misaka.json",
+        "PackageID": "org.haxi0.ByeByeDock"
+      },
       {
         "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
         "PackageID": "com.34306.gspc"
