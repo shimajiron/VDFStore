@@ -1,8 +1,8 @@
 {
     "Tweak01": [
       {
-        "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
-        "PackageID": "com.34306.gspc"
+        "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+        "PackageID": "com.yangjiii.usagipasscode"
       }
     ],
     "HeaderTweaks": [
