@@ -56,6 +56,10 @@
     
     },
     {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/hanabiRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Respple2"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
       "PackageID": "com.coolwcat.appleroundfont"
     }
