@@ -37,6 +37,64 @@
             "PackageID": "com.straight-tamago.Disable_Homebar"
         },
         {
+            "Name": "Dock Color",
+            "Description": "Change Dock Color (Dockの色を変更)",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change Dock Color (Dockの色を変更します。)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091746692052815982/DockColor.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.Dock_Color"
+        },
+        {
+            "Name": "ControlCenter Color",
+            "Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091752704688259123/ControlCenterColor.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.ControlCenter_Color"
+        },
+        {
             "Name": "LockScreen Icons",
             "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
             "Author": {
