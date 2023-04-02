@@ -220,7 +220,7 @@
             "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
             "Category": null,
             "Caption": "Add Shazam module before using",
-            "Screenshot": "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large",
+            "Screenshot": ["https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"],
             "Releases": [
                 {
                     "Version": "1.0",
