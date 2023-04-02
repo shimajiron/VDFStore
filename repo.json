@@ -219,9 +219,9 @@
             "Screenshot": null,
             "Releases": [
                 {
-                    "Version": "1.0",
+                    "Version": "1.1",
                     "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert.misaka",
-                    "Description": null
+                    "Description": "all lang"
                 }
             ],
             "PackageID": "com.straight-tamago.SpringAlert"
