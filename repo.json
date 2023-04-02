@@ -202,6 +202,31 @@
             "PackageID": "com.straight-tamago.RespringCC_Shortcut"
         },
         {
+            "Name": "SpringAlert",
+            "Description": "beta alert and low battery alerts",
+            "Author": {
+                "Label": "しまじろん",
+                "Links": [
+                    {
+                        "Label": "しまじろん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change the strings for beta alerts and low battery alerts.",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.SpringAlert"
+        },
+        {
             "Name": "CC WallPaper",
             "Description": "Add Shazam module before using",
             "Author": {
