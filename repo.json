@@ -200,6 +200,35 @@
                 }
             ],
             "PackageID": "com.straight-tamago.RespringCC_Shortcut"
+        },
+        {
+            "Name": "CC WallPaper",
+            "Description": "Add Shazam module before using",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago (Main Dev)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy (Icon & Tweak Settings Design)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
+            "Category": null,
+            "Caption": "Add Shazam module before using",
+            "Screenshot": "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large",
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.CCWP"
         }
     ]
 }
