@@ -1,27 +1,26 @@
 [
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.applesymbols1.0"
+      "PackageID": "com.yangjiii.astronautwhite"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.lsui15"
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.bigsurclockicon"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.NoNameBatteryWidget"
-    
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.fontcorporative"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.Respple2"
+      "RepositoryURL": "https://betterave.c22code.repl.co/repo",
+      "PackageID": "com.L95vz.Mohammed"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.appleroundfontios15"
+      "RepositoryURL": "https://betterave.c22code.repl.co/repo",
+      "PackageID": "www.iwishkem.SamsungS22"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "com.fall20c.ResPM"
+      "RepositoryURL": "https://betterave.c22code.repl.co/repo",
+      "PackageID": "com.iWishkem.Legacy48"
     }
 ]
