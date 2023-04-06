@@ -1,4 +1,6 @@
-[
+{
+  "Update": "2023/04/07",
+  "Tweaks": [
     {
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
       "PackageID": "www.iwishkem.tk.Legacy48"
@@ -91,4 +93,5 @@
       "RepositoryURL": "https://betterave.c22code.repl.co/repo",
       "PackageID": "com.iWishkem.Legacy48"
     }
-]
+  ]
+}
