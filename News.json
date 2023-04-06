@@ -1,5 +1,25 @@
 [
     {
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.Legacy48"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
+      "PackageID": "com.fomri.NFC16"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
+      "PackageID": "com.fomri.LegalPacMan"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
+      "PackageID": "com.fomri.CameraTXT15"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
+      "PackageID": "com.fomri.NFC16"
+    },
+    {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.sean.5genabler"
     },
