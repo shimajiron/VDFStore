@@ -1,4 +1,4 @@
-{
+[
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.applesymbols1.0"
@@ -24,4 +24,4 @@
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "com.fall20c.ResPM"
     }
-}
+]
