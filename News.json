@@ -4,6 +4,14 @@
       "PackageID": "com.sean.5genabler"
     },
     {
+      "RepositoryURL": "https://tweakrain.tk/repos/misaka/misaka.json",
+      "PackageID": "com.Outlander.font2"
+    },
+    {
+      "RepositoryURL": "https://tweakrain.tk/repos/misaka/misaka.json",
+      "PackageID": "com.Outlander.font"
+    },
+    {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.adelstar.samsungemoji"
     },
@@ -57,7 +65,7 @@
     },
     {
       "RepositoryURL": "https://betterave.c22code.repl.co/repo",
-      "PackageID": "com.L95vz.Mohammed"
+      "PackageID": "com.L95vz.Mohammed "
     },
     {
       "RepositoryURL": "https://betterave.c22code.repl.co/repo",
