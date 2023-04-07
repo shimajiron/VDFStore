@@ -2,6 +2,14 @@
   "Update": "2023/04/07",
   "Tweaks": [
     {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.gradient"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.quicksand"
+    },
+    {
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
       "PackageID": "www.iwishkem.tk.LegacyCandy"
     },
