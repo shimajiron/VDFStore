@@ -2,6 +2,10 @@
   "Update": "2023/04/07",
   "Tweaks": [
     {
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.LegacyCandy"
+    },
+    {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.dekotastm.epicdynamicness"
     },
