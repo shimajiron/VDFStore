@@ -2,10 +2,6 @@
   "Update": "2023/04/07",
   "Tweaks": [
     {
-      "RepositoryURL": "https://puck.roeegh.dev/repo.json",
-      "PackageID": "dev.roeegh.NotificationShadow"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.sfredit"
     },
