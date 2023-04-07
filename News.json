@@ -2,6 +2,11 @@
   "Update": "2023/04/07",
   "Tweaks": [
     {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotastm.epicdynamicness"
+    },
+
+    {
       "RepositoryURL": "https://puck.roeegh.dev/repo.json",
       "PackageID": "dev.roeegh.NotificationColor"
     },
@@ -12,10 +17,6 @@
     {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.dekotastm.snake"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.epicdynamicness.11"
     },
     {
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
