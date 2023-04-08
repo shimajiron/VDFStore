@@ -1,6 +1,22 @@
 {
-  "Update": "2023/04/07",
+  "Update": "2023/04/08",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.retake15"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.exciter"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.compile"
+    },
+    {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotas.emojicategorychanger"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.gradient"
@@ -105,22 +121,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.astronautwhite"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.bigsurclockicon"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.fontcorporative"
-    },
-    {
-      "RepositoryURL": "https://betterave.c22code.repl.co/repo",
-      "PackageID": "com.L95vz.Mohammed "
-    },
-    {
-      "RepositoryURL": "https://betterave.c22code.repl.co/repo",
-      "PackageID": "com.iWishkem.Legacy48"
     }
   ]
 }
