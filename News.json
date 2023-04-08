@@ -1,6 +1,14 @@
 {
-    "Update": "2023/04/08 14:34(UTC)",
+    "Update": "2023/04/08 16:04(UTC)",
     "Tweaks": [
+      {
+        "RepositoryURL": "https://dekotas.org/repo.json",
+        "PackageID": "com.dekotas.passchanger"
+      },
+      {
+        "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+        "PackageID": "com.yangjiii.oneuilsui"
+      },
         {
             "RepositoryURL": "https://dekotas.org/repo.json",
             "PackageID": "com.dekotastm.maskedfaceid"
