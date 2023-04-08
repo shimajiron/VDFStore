@@ -1,6 +1,14 @@
 {
-    "Update": "2023/04/08 16:04(UTC)",
+    "Update": "2023/04/09 21:22(UTC)",
     "Tweaks": [
+    {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotastm.mutemsgchanger"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.paint"
+    },
       {
         "RepositoryURL": "https://dekotas.org/repo.json",
         "PackageID": "com.dekotas.passchanger"
@@ -129,18 +137,6 @@
       {
         "RepositoryURL": "https://dekotas.org/repo.json",
         "PackageID": "com.sean.yangjiiii.lineat"
-      },
-      {
-        "RepositoryURL": "https://dekotas.org/repo.json",
-        "PackageID": "com.dekotastm.arcadecenter"
-      },
-      {
-        "RepositoryURL": "https://dekotas.org/repo.json",
-        "PackageID": "com.L95vz.i14p"
-      },
-      {
-        "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-        "PackageID": "com.yangjiii.astronautwhite"
       }
     ]
   }
