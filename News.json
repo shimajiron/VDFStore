@@ -1,6 +1,14 @@
 {
-  "Update": "2023/04/09 00:30(UTC)",
+  "Update": "2023/04/09 00:49(UTC)",
   "Tweaks": [
+  {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.AlwaysVPN"
+  },
+  {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.7G"
+  },
   {
       "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
       "PackageID": "com.fomri.CameraTXT16"
